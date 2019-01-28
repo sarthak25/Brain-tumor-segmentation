@@ -1,7 +1,7 @@
 # Brain-tumor-segmentation
 This repo is of segmentation and morphological operations which are the basic concepts of image processing. Detection and extraction of tumor from MRI scan images of the brain is done using python
 
-METHODOLOGY: 
+**METHODOLOGY**: 
  
 The algorithm has two stages, first is pre-processing of given MRI image and after that segmentation and then perform morphological operations. Steps of algorithm are as following:-  
 1) Give MRI image of brain as input. 
