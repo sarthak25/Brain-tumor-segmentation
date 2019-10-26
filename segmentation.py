@@ -22,7 +22,7 @@ def ShowImage(title,img,ctype):
   plt.axis('off')
   plt.title(title)
   plt.show()
-img           = cv2.imread('brains1.png')
+img           = cv2.imread('brains11.png')
 gray          = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 ShowImage('Brain MRI',gray,'gray')
 
