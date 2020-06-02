@@ -11,5 +11,11 @@ The algorithm has two stages, first is pre-processing of given MRI image and aft
 5) Compute morphological operation. 
 6) Finally output will be a tumour region.  
 
+**OUTPUT**: 
+
+![Thresholding](Sample-Outputs/Thresholding.PNG)
+
+![segmentation](Sample-Outputs/Segmentation.PNG)
+
  
  
